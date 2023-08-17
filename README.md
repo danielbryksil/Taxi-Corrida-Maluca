@@ -12,6 +12,6 @@ A métrica REQM no conjunto de teste não deve ser superior a 48.
 3.	Treinar diferentes modelos com diferentes hiperparâmetros. A amostra de teste deve ser 10% do conjunto de dados inicial.
 4.	Testar os dados usando a amostra de teste e fornecer uma conclusão.
 
-##Descrição de dados
+## Descrição de dados
 - Os dados são armazenados no arquivo /datasets/taxi.csv. 
 - O número de pedidos está na coluna num_orders.
